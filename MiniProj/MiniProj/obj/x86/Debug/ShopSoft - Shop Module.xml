@@ -1,0 +1,184 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ShopSoft-ShopModule
+</name>
+</assembly>
+<members>
+<member name="P:ShopSoft.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources._247x129xsecure_footer_jpg_pagespeed_ic_jxTdQtcvNU">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.back1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.back2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnAcountSettings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnAddRegisteredCus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnAdminCreateUser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnAdminViewUserDetails">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnBackAdmin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnChangePasswordAdmin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnCreateBill">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnCreateBills">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnManageCategories">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnManageItemInventory">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnReports">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnStock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnUpdateDelivery">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.btnViewBills">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.COD">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.cooltext780779551">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.Icon_Disk01_Blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.new_item_cart_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.paygiveaway">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.picLogin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.splash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.splash2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ShopSoft.My.Resources.Resources.Students">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ShopSoft.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.BillReportTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.deliveryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.BillReportTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.deliveryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ShopSoft.DataSet1.billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopSoft.DataSet1.BillReportTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopSoft.DataSet1.StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopSoft.DataSet1.deliveryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ShopSoft.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,468 @@
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\bin\Debug\UserModule.exe
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\bin\Debug\UserModule.pdb
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\bin\Debug\UserModule.xml
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmSplash.resources
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.Resources.resources
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.exe
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.xml
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.pdb
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmMain.resources
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmItems.resources
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.exe
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.xml
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.pdb
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\bin\Debug\UserModule.exe
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\bin\Debug\UserModule.pdb
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\bin\Debug\UserModule.xml
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmMain.resources
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmItems.resources
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmSplash.resources
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.Resources.resources
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmItemsSearch.resources
+C:\Users\shong\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.ProductInfo.resources
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmItemsSearch.resources
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmShoppingCart.resources
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmtotal.resources
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmProductInfo.resources
+C:\Users\Ashwini\Desktop\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmBuy.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.exe
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.xml
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.pdb
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\bin\Debug\UserModule.exe
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\bin\Debug\UserModule.pdb
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\bin\Debug\UserModule.xml
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmBuy.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmtotal.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmShoppingCart.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmMain.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmItems.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmItemsSearch.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmSplash.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.Resources.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmProductInfo.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.frmCart.resources
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\bin\Debug\UserModule.exe.manifest
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\bin\Debug\UserModule.application
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.exe.manifest
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\obj\x86\Debug\UserModule.application
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\bin\Debug\Resources\dbShop.mdb
+C:\Users\shong\Desktop\mod\UserModule\UserModule\UserModule\bin\Debug\UserModule.exe.config
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\3-10-2012\UserModule\UserModule\bin\Debug\UserModule.exe.config
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.exe
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.xml
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.pdb
+G:\3-10-2012\UserModule\UserModule\bin\Debug\UserModule.exe.manifest
+G:\3-10-2012\UserModule\UserModule\bin\Debug\UserModule.application
+G:\3-10-2012\UserModule\UserModule\bin\Debug\UserModule.exe
+G:\3-10-2012\UserModule\UserModule\bin\Debug\UserModule.pdb
+G:\3-10-2012\UserModule\UserModule\bin\Debug\UserModule.xml
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmAboutUs.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmCatBrowse.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmMyAccount.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmSubCat.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmMaps.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmSignUp.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmLogin.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmBuy.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmCart.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmMain.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmItems.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmItemsSearch.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmReport.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmSplash.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.Resources.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.frmProductInfo.resources
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.exe.manifest
+G:\3-10-2012\UserModule\UserModule\obj\x86\Debug\UserModule.application
+C:\Users\shong\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+C:\Users\shong\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\shong\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+C:\Users\shong\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+C:\Users\shong\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+C:\Users\shong\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+C:\Users\shong\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+C:\Users\Ashwini\Desktop\finl\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+H:\LAHE\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+H:\LAHE\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+H:\LAHE\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+H:\LAHE\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+C:\Users\shong\Desktop\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+C:\Users\shong\Desktop\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\shong\Desktop\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+C:\Users\shong\Desktop\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+C:\Users\shong\Desktop\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+C:\Users\shong\Desktop\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\shong\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+J:\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+J:\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+J:\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+J:\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+J:\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+J:\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+J:\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+J:\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+J:\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\MacroWares Inc\Desktop\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbprojResolveAssemblyReference.cache
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbproj.GenerateResource.Cache
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+G:\Study\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbprojResolveAssemblyReference.cache
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbproj.GenerateResource.Cache
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+G:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+H:\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbprojResolveAssemblyReference.cache
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbproj.GenerateResource.Cache
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+S:\ShopSoft\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbprojResolveAssemblyReference.cache
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbproj.GenerateResource.Cache
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+C:\Users\Shounak\Desktop\ShopSoft-2014-03-06\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.manifest
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.application
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.pdb
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.xml
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbprojResolveAssemblyReference.cache
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmShopSelect.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmAboutUs.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCatBrowse.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmForgotPass.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMyAccount.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNewPass.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmNotify.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSubCat.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMaps.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSignUp.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmLogin.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmBuy.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmCart.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmMain.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItems.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmItemsSearch.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmReport.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmSplash.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.Resources.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft.frmProductInfo.resources
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\UserModule.vbproj.GenerateResource.Cache
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe.manifest
+M:\ShopSoft-2014-03-06 - Copy\ShopSoft\ShopSoft - User Module\Code\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.application
+C:\Users\saket\Desktop\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+C:\Users\saket\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+C:\Users\saket\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+C:\Users\saket\Desktop\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb
+H:\Misc. Projects\ShopSoft-2014-03-06\UserModule\UserModule\bin\Debug\ShopSoft-Client Module.exe.config
+H:\Misc. Projects\ShopSoft-2014-03-06\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.exe
+H:\Misc. Projects\ShopSoft-2014-03-06\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.xml
+H:\Misc. Projects\ShopSoft-2014-03-06\UserModule\UserModule\obj\x86\Debug\ShopSoft-Client Module.pdb

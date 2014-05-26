@@ -1,0 +1,652 @@
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\bin\Debug\MiniProj.exe
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\bin\Debug\MiniProj.pdb
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\bin\Debug\MiniProj.xml
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\obj\x86\Debug\MiniProj.exe
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\obj\x86\Debug\MiniProj.xml
+C:\Users\saket\AppData\Local\Temporary Projects\MiniProj\obj\x86\Debug\MiniProj.pdb
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMainMdi.resources
+C:\Users\saket\documents\visual studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAdminHome.resources
+C:\Users\saket\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+C:\Users\saket\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+C:\Users\saket\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+C:\Users\saket\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageCategories.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+I:\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+I:\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+I:\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+I:\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMainMdi.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageCategories.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+I:\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageCategories.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+\\SHONGROCKS-PC\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillpop.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillpop.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageCategories.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shong rocks\Desktop\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillPop.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillRegistered.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillUnregistered.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItemToBill.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.exe.config
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemInventory.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBrowseProducts.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemWhatToDo.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddCat.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmCategory.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddSubCat.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddBrand.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmUpdateStock.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\bin\Debug\MiniProj.exe.config
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAbout.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddBrand.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddCat.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItemToBill.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddSubCat.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillPop.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillRegistered.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillUnregistered.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBkpDB.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBrowseProducts.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmCategory.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemWhatToDo.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemInventory.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintBill.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmUpdateStock.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewBills.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mini Project Data\27-09-2012_Remaining takebackup,errhandling,errprovider\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmRestoreDB.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAbout.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBkpDB.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmRestoreDB.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintBill.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportsMain.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportBill.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportSelected.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPerformStock.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintCustomer.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddRegisteredCustomer.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmDeliveryStats.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintDelivery.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmVideoTutorial.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\bin\Debug\MiniProj.exe.config
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAbout.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddBrand.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddCat.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItemToBill.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddRegisteredCustomer.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddSubCat.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillPop.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillRegistered.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillUnregistered.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBkpDB.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBrowseProducts.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmCategory.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmDeliveryStats.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemWhatToDo.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemInventory.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPerformStock.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintBill.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintCustomer.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintDelivery.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportBill.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportSelected.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportsMain.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmRestoreDB.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmUpdateStock.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmVideoTutorial.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mini Project Data\2-10-2012_Remaining only Designing\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNewsLetter.resources
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.exe.manifest
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\bin\Debug\MiniProj.application
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe.manifest
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.application
+C:\Users\MacroWares Inc\Documents\Visual Studio 2010\Projects\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNotify.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\bin\Debug\MiniProj.exe.config
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\bin\Debug\MiniProj.exe.manifest
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\bin\Debug\MiniProj.application
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAbout.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddBrand.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddCat.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItemToBill.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddRegisteredCustomer.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddSubCat.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillPop.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillRegistered.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillUnregistered.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBkpDB.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBrowseProducts.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmCategory.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmDeliveryStats.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemWhatToDo.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemInventory.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNewsLetter.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNotify.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPerformStock.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintBill.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintCustomer.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintDelivery.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportBill.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportSelected.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportsMain.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmRestoreDB.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmUpdateStock.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmVideoTutorial.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe.manifest
+E:\Mini Project Data\04-10-2012_Final Shop Module\MiniProj\MiniProj\obj\x86\Debug\MiniProj.application
+D:\MiniProj\MiniProj\bin\Debug\MiniProj.exe.config
+D:\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+D:\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+D:\MiniProj\MiniProj\bin\Debug\MiniProj.exe.manifest
+D:\MiniProj\MiniProj\bin\Debug\MiniProj.application
+D:\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+D:\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+D:\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+D:\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+D:\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+D:\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAbout.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddBrand.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddCat.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItemToBill.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddRegisteredCustomer.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddSubCat.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillRegistered.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBkpDB.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBrowseProducts.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmCategory.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmDeliveryStats.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemWhatToDo.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemInventory.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNewsLetter.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNotify.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPerformStock.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintBill.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintCustomer.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintDelivery.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportBill.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportSelected.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportsMain.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmRestoreDB.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmUpdateStock.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmVideoTutorial.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+D:\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe.manifest
+D:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.application
+G:\Mini Project Data\MiniProj\MiniProj\bin\Debug\MiniProj.exe.config
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+G:\Mini Project Data\MiniProj\MiniProj\bin\Debug\MiniProj.exe.manifest
+G:\Mini Project Data\MiniProj\MiniProj\bin\Debug\MiniProj.application
+G:\Mini Project Data\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+G:\Mini Project Data\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+G:\Mini Project Data\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+G:\Mini Project Data\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+G:\Mini Project Data\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAbout.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddBrand.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddCat.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItemToBill.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddRegisteredCustomer.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddSubCat.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillRegistered.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBkpDB.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBrowseProducts.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmCategory.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmDeliveryStats.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemWhatToDo.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemInventory.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNewsLetter.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNotify.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPerformStock.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintBill.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintCustomer.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintDelivery.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportBill.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportSelected.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportsMain.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmRestoreDB.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmUpdateStock.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmVideoTutorial.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe.manifest
+G:\Mini Project Data\MiniProj\MiniProj\obj\x86\Debug\MiniProj.application
+C:\MiniProj\MiniProj\bin\Debug\MiniProj.exe.config
+C:\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+C:\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.xml
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.pdb
+C:\MiniProj\MiniProj\bin\Debug\MiniProj.exe.manifest
+C:\MiniProj\MiniProj\bin\Debug\MiniProj.application
+C:\MiniProj\MiniProj\bin\Debug\MiniProj.exe
+C:\MiniProj\MiniProj\bin\Debug\MiniProj.pdb
+C:\MiniProj\MiniProj\bin\Debug\MiniProj.xml
+C:\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+C:\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+C:\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAbout.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddAccount.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddBrand.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddCat.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItem.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddItemToBill.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddRegisteredCustomer.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmAddSubCat.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBillRegistered.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBkpDB.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmBrowseProducts.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmCategory.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmChangePassword.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmDeliveryStats.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmEditUser.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemWhatToDo.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmMain.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmManageUsers.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmItemInventory.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNewsLetter.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmNotify.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPerformStock.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintBill.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintCustomer.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmPrintDelivery.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportBill.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportSelected.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmReportsMain.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmRestoreDB.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmSplashLogin.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmUpdateStock.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmVideoTutorial.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.frmViewRecords.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.Resources.resources
+C:\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.exe.manifest
+C:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.application
+E:\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+E:\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+E:\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe.config
+E:\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe.manifest
+E:\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.application
+E:\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe
+E:\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.pdb
+E:\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.xml
+E:\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+E:\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+E:\MiniProj\MiniProj\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAbout.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddAccount.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddBrand.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddCat.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddItem.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddItemToBill.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddRegisteredCustomer.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddSubCat.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBillRegistered.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBkpDB.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBrowseProducts.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmCategory.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmChangePassword.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmDeliveryStats.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmEditUser.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmItemWhatToDo.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmMain.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmManageUsers.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmItemInventory.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmNewsLetter.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmNotify.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPerformStock.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintBill.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintCustomer.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintDelivery.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportBill.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportSelected.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportsMain.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmRestoreDB.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmSplashLogin.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmUpdateStock.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmVideoTutorial.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmViewRecords.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.Resources.resources
+E:\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\MiniProj\MiniProj\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.exe.manifest
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.application
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.exe
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.xml
+E:\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.pdb
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe.config
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.exe
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.xml
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.pdb
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe.manifest
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.application
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.pdb
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.xml
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbprojResolveAssemblyReference.cache
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAbout.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddAccount.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddBrand.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddCat.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddItem.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddItemToBill.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddRegisteredCustomer.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddSubCat.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBillRegistered.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBkpDB.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBrowseProducts.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmCategory.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmChangePassword.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmDeliveryStats.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmEditUser.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmItemWhatToDo.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmMain.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmManageUsers.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmItemInventory.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmNewsLetter.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmNotify.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPerformStock.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintBill.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintCustomer.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintDelivery.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportBill.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportSelected.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportsMain.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmRestoreDB.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmSplashLogin.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmUpdateStock.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmVideoTutorial.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmViewRecords.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.Resources.resources
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.GenerateResource.Cache
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.exe.manifest
+G:\Study\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.application
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe.config
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.exe
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.xml
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.pdb
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe.manifest
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.application
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.pdb
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.xml
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbprojResolveAssemblyReference.cache
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAbout.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddAccount.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddBrand.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddCat.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddItem.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddItemToBill.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddRegisteredCustomer.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddSubCat.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBillRegistered.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBkpDB.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBrowseProducts.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmCategory.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmChangePassword.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmDeliveryStats.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmEditUser.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmItemWhatToDo.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmMain.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmManageUsers.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmItemInventory.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmNewsLetter.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmNotify.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPerformStock.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintBill.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintCustomer.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintDelivery.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportBill.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportSelected.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportsMain.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmRestoreDB.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmSplashLogin.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmUpdateStock.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmVideoTutorial.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmViewRecords.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.Resources.resources
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.GenerateResource.Cache
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.exe.manifest
+G:\ShopSoft\ShopSoft - Shop Module\Code\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.application
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe.config
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\Interop.WMPLib.dll
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.ResolveComReference.cache
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.exe
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.xml
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.pdb
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbprojResolveAssemblyReference.cache
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAbout.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddAccount.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddBrand.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddCat.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddItem.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddItemToBill.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddRegisteredCustomer.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmAddSubCat.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBillRegistered.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBkpDB.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmBrowseProducts.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmCategory.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmChangePassword.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmDeliveryStats.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmEditUser.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmItemWhatToDo.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmMain.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmManageUsers.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmItemInventory.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmNewsLetter.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmNotify.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPerformStock.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintBill.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintCustomer.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmPrintDelivery.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportBill.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportSelected.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmReportsMain.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmRestoreDB.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmSplashLogin.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmUpdateStock.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmVideoTutorial.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmViewRecords.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\MiniProj.vbproj.GenerateResource.Cache
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe.manifest
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.application
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.exe
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.pdb
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\ShopSoft - Shop Module.xml
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\MySql.Data.Entity.EF6.dll
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\Interop.WMPLib.dll
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\bin\Debug\AxInterop.WMPLib.dll
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.Resources.resources
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.exe.manifest
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft - Shop Module.application
+H:\Misc. Projects\ShopSoft-2014-03-06\MiniProj\MiniProj\obj\x86\Debug\ShopSoft.frmChat.resources

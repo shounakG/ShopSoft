@@ -1,0 +1,329 @@
+
+<!-- saved from url=(0058)http://jcsites.juniata.edu/faculty/rhodes/dbms/ermodel.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>The Entity-Relationship Model</title>
+<script src="./The Entity-Relationship Model_files/inclass.js" language="JavaScript">
+</script>
+<style type="text/css">
+.BlueHightlight {
+	color: #00F;
+}
+</style>
+</head>
+
+<body>
+
+<h1 align="center">The Entity-Relationship Model</h1>
+<div align="right"> 
+  <p><font size="1">last updated 
+    <!-- #BeginDate format:En1 -->5-sep-12<!-- #EndDate -->
+    </font></p>
+  <form>
+    <p><input type="button" value="Screen Mode" onclick="openDisplay();">
+    </p>
+  </form>
+</div>
+
+<h2 align="left"><a name="DBDesign"></a>Database Design</h2>
+<p>Goal of design is to generate a formal specification of the database schema</p>
+<p>Methodology: </p>
+<ol>
+  <li>Use E-R model to get a high-level graphical view of essential components 
+    of enterprise and how they are related</li>
+  <li>Then convert E-R diagram to SQL DDL, or whatever database model you are 
+    using</li>
+</ol>
+<p>E-R Model is not SQL based. It's not limited to any particular DBMS. It is 
+  a conceptual and semantic model – captures meanings rather than an actual implementation </p>
+<p><img src="./The Entity-Relationship Model_files/ersymbols.gif" alt="basic ER diagram symbols" width="354" height="276" border="0" align="right"></p>
+<p>The E-R Model: The enterprise is viewed as set of</p>
+<ul>
+  <li>Entities</li>
+  <li>Relationships among entities</li>
+</ul>
+<p>Symbols used in E-R Diagram</p>
+<ul>
+  <li> Entity – rectangle</li>
+  <li> Attribute – oval</li>
+  <li>Relationship – diamond</li>
+  <li>Link - line</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a name="EntitiesAttr"></a></p>
+<hr>
+<h2>Entities and Attributes</h2>
+<p><b>Entity</b>: an object that is involved in the enterprise and that be distinguished 
+  from other objects. (not shown in the ER diagram--is an instance)</p>
+<ul>
+  <li>Can be person, place, event, object, concept in the real world </li>
+  <li>Can be physical object or abstraction</li>
+  <li>Ex: "John", "CSE305"</li>
+</ul>
+<p><b>Entity Type</b>: set of similar objects or a category of entities; they 
+  are well defined</p>
+<ul>
+  <li>A rectangle represents an entity set</li>
+  <li>Ex: <i><b>students</b></i>, <i><b>courses</b></i></li>
+  <li>We often just say "entity" and mean "entity type"</li>
+</ul>
+<p><b>Attribute</b>: describes one aspect of an entity type; usually [and best 
+  when] single valued and indivisible (atomic)</p>
+<ul>
+  <li>Represented by oval on E-R diagram</li>
+  <li>Ex: <i>name, maximum enrollment</i></li>
+  <li>May be <b>multi-valued</b> – use double oval on E-R diagram</li>
+  <li> May be <b>composite</b> – attribute has further structure; also use oval for composite attribute, with ovals 
+    for components connected to it by lines</li>
+  <li> May be <b>derived</b> – a virtual attribute, one that is computable from existing data in the database, use dashed oval. This helps reduce redundancy</li>
+</ul>
+<p>&nbsp;</p>
+<p><a name="EntityType"></a></p>
+<p>&nbsp;</p>
+<hr>
+<h2 align="left">Entity Types</h2>
+<p>An entity type is <b><font color="#0000FF">named</font></b> and is described 
+  by <b><font color="#FF0000">set of attributes</font></b></p>
+<ul>
+  <li><font color="#0000FF">Student</font>: <font color="#FF0000">Id, Name, Address, 
+    Hobbies</font></li>
+</ul>
+<p><b>Domain</b>: possible values of an attribute.&nbsp; </p>
+<ul>
+  <li> Note that the value for an attribute can be a set or list of values, sometimes 
+    called "multi-valued" attributes</li>
+  <li>This is in contrast to the pure relational model which requires atomic values</li>
+  <li>E.g., <font color="#FF0000">(111111, John, 123 Main St, (stamps, coins))</font></li>
+</ul>
+<p><b><font color="#009900">Key</font></b><font color="#009900">: subset of attributes 
+  that uniquely identifies an entity (candidate key)</font></p>
+<h3><b>Entity Schema</b>: </h3>
+<p>The meta-information of <font color="#0000FF">entity 
+  type name</font>, <font color="#0000FF">attributes (and associated domain)</font>, 
+  <font color="#009900">key constraints</font></p>
+<p><i>Entity Types </i>tend to correspond to <b>nouns</b>; <i>attributes</i> are also nouns 
+  albeit descriptions of the parts of entities</p>
+<p>May have <font color="#FF0000"><b>null </b></font>values for some entity attribute 
+  instances – no mapping to domain for those instances</p>
+<p>&nbsp;</p>
+<p><a name="Keys"></a></p>
+<hr>
+<h2>Keys</h2>
+<p> <b>Superkey</b>: an attribute or set of attributes that uniquely identifies 
+  an entity--there can be many of these</p>
+<p> <b>Composite key</b>: a key requiring more than one attribute</p>
+<p> <b>Candidate key</b>: a superkey such that no proper subset of its attributes 
+  is also a superkey (minimal superkey – has no unnecessary attributes)</p>
+<p> <b><font color="#FF0000">Primary key</font></b><font color="#FF0000">: <font color="#000000">the 
+  candidate key chosen to be used for identifying entities and accessing records.&nbsp; 
+Unless otherwise noted "key" means "primary key"</font></font></p>
+<p> <b>Alternate key</b>: a candidate key not used for primary key</p>
+<p> <b>Secondary key</b>: attribute or set of attributes commonly used for accessing records, 
+  but not necessarily unique</p>
+<font color="#0000FF">
+<p><b>Foreign key:</b> term used in relational databases <b>(but not in the E-R model) </b>for an attribute 
+  that is the primary key of another table and is used to establish a relationship with that table where it appears as an attribute also. </p>
+<p>So a foreign key value occurs in the table and again in the other table. This conflicts with the idea that a <b>value</b> is stored only once; the idea that a <b>fact</b> is stored once is not undermined.</p></font>
+<p>&nbsp; </p>
+<p><a name="Graphical"></a></p>
+<p>&nbsp;</p>
+<hr>
+<h2>Graphical Representation in E-R diagram</h2>
+<p><img border="0" src="./The Entity-Relationship Model_files/eratts.png" width="456" height="250"></p>
+<p><b>Rectangle</b> -- Entity</p>
+<p><b>Ellipses</b> -- Attribute (<u>underlined</u> attributes are [part of] the 
+  primary key)</p>
+<p><b>Double ellipses</b> -- multi-valued attribute</p>
+<p><b>Dashed ellipses</b>-- derived attribute, e.g. age is derivable from birthdate 
+  and current date.</p>
+<p class="BlueHightlight">[Drawing notes: keep all attributes above the entity. Lines have no arrows. Use straight lines only]</p>
+<p>&nbsp;</p>
+<p><a name="Relationship"></a></p>
+<p>&nbsp;</p>
+<hr>
+<h2>Relationships</h2>
+<p><b>Relationship</b>: connects two or more entities into an association/relationship</p>
+<ul>
+  <li>"John" majors in "Computer Science"</li>
+</ul>
+<p><b>Relationship Type</b>: set of similar relationships</p>
+<ul>
+  <li><b><i><font color="#FF0000">Student</font></i></b> (entity type) is related 
+    to <i><b><font color="#FF0000">Department</font></b></i> (entity type) by 
+    <i><b><font color="#0000FF">MajorsIn</font></b></i> (relationship type).</li>
+</ul>
+<p><img src="./The Entity-Relationship Model_files/Relerex.png" alt="relationship diagram in ER" width="386" height="150"></p>
+<p>Relationship Types may also have attributes in the E-R model.&nbsp; When they 
+  are mapped to the relational model, the attributes become part of the relation. 
+  Represented by a diamond on E-R diagram.</p>
+<p>Relationship types can have descriptive attributes like entity sets</p>
+<p>Relationships tend to be <b>verbs or verb phrases; </b>attributes of relationships 
+  are again nouns </p>
+<p class="BlueHightlight">[Drawing tips: relationship diamonds should connect off the left and right points; Dia can label those points with cardinality; use Manhattan connecting line (horizontal/vertical zigzag)]</p>
+<p><a name="AttrVRoles"></a></p>
+<p>&nbsp;</p>
+<hr>
+<h2>Attributes and Roles</h2>
+<p>An <b>attribute</b> of a relationship type adds additional information to the relationship</p>
+<ul>
+  <li>e.g., "John" majors in "CS" <i><b>since</b></i><b> 2000</b></li>
+  <li>John and CS are related</li>
+  <li>2000 describes the relationship - it's the value of the <i><b>since</b></i> 
+    attribute of <i><b>MajorsIn</b></i> relationship type</li>
+</ul>
+<p>The <b>role</b> of a relationship type names one of the related entities. The name of the entity is usually the role name.</p>
+<dir>
+  
+<p>e.g., "John" is value of <i><b>Student</b></i> role, "CS" 
+  value of <i><b>Department</b></i> role of <i><b>MajorsIn</b></i> relationship 
+  type</p>
+  <p>(John, CS, 2000) describes a relationship</p>
+</dir>
+<p><b>Problem</b>: relationships can relate elements of same entity type</p>
+<blockquote>
+  <p>e.g., ReportsTo relationship type relates two elements of Employee entity 
+    type: </p>
+  <ul>
+    <li>Bob reports to Mary since 2000 </li>
+  </ul>
+  <p>We do not have distinct names for the roles. It is not clear who reports to whom.</p>
+</blockquote>
+<p><b>Solution</b>: the role name of relationship type need not be same as name 
+  of entity type from which participants are drawn</p>
+<ul>
+  <li>ReportsTo has roles Subordinate and Supervisor and attribute Since</li>
+  <li>Values of Subordinate and Supervisor both drawn from entity type Employee</li>
+</ul>
+<p> Optional to name role of each entity-relationship, but helpful in cases of</p>
+<ul>
+  <li> Recursive relationship – entity set relates to itself</li>
+  <li> Multiple relationships between same entity sets</li>
+</ul>
+<p>Roles are edges labeled with role names (omitted if role name = name of 
+entity set). Most attributes have been omitted.</p>
+<p><img src="./The Entity-Relationship Model_files/ERexamples.jpg" alt="role names" width="450" height="598" border="0"></p>
+<p></p>
+<p><a name="RelnType"></a></p>
+
+<hr>
+<h2 align="left">Relationship Type</h2>
+<p>Relationship types are described by the set of roles (entities) and [optional] attributes </p>
+<ul>
+  <li>e.g., <strong>MajorsIn</strong>: Student, Department, Since</li>
+</ul>
+<p>Think that entities are nouns; relationship types are often verbs</p>
+<ul>
+  <li>students and departments are the entities (nouns) and roles in 
+  relationship types</li>
+  <li>majors is the relationship type (verb)</li>
+  <li>i.e., "student" "majors in " "department"</li>
+</ul>
+<p>Here we have equate the role name (Student) the name of the entity type 
+(Student) of the participant in the relationship.</p>
+<p><a name="Degree"></a></p>
+<p>&nbsp;</p>
+<hr>
+<h2>Degree of relationship</h2>
+<p>The number of roles in the relationship<img src="./The Entity-Relationship Model_files/ternary.jpg" width="321" height="241" align="right"></p>
+<p> <b>Binary</b> – links two entity sets; set of ordered pairs (most common)</p>
+<p> <b>Ternary</b> – links three entity sets; ordered triples (rare). If a relationship exists among the three entities, all three must be present</p>
+<p> <b>N-ary</b> – links n entity sets; ordered n-tuples (very rare). If a relationship exists among the entities, then all must be present. Cannot represesnt subsets.</p>
+<p> Note: ternary relationships may sometimes be replaced by two binary relationships 
+  (see book Figures 3.5 and 3.13). Semantic equivalence between ternary relationships and two binary ones are not necessarily true. </p>
+<p><img src="./The Entity-Relationship Model_files/ternrel.png" width="386" height="200"></p>
+<p><a name="Cardinality"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<h2>Cardinality of Relationships</h2>
+<p> Cardinality is the number of entity instances to which another entity set can map under the relationship. This does not reflect a requirement that an entity has to participate in a relationship. Participation is another concept.</p>
+<p> <b>One-to-one</b>: X-Y is 1:1 when each entity in X is associated with at 
+  most one entity in Y, and each entity in Y is associated with at most one entity 
+  in X.</p>
+<p> <b>One-to-many</b>: X-Y is 1:M when each entity in X can be associated with 
+  many entities in Y, but each entity in Y is associated with at most one entity 
+  in X.</p>
+<p> <b>Many-to-many</b>: X:Y is M:M if each entity in X can be associated with 
+  many entities in Y, and each entity in Y is associated with many entities in 
+  X ("many" =&gt;one or more and sometimes zero)</p>
+<p> <img src="./The Entity-Relationship Model_files/card1.gif"> <img src="./The Entity-Relationship Model_files/card2.gif"></p>
+<p><img src="./The Entity-Relationship Model_files/card3.gif"><img src="./The Entity-Relationship Model_files/card4.gif"></p>
+<p><img src="./The Entity-Relationship Model_files/card5.gif"></p>
+<p><a name="RelnParticConstr"></a></p>
+<p>&nbsp;</p>
+<hr>
+<h2>Relationship Participation Constraints<img src="./The Entity-Relationship Model_files/ternrel.png" alt="participation ER example" width="386" height="200" border="0" align="right"></h2>
+<h3> Total participation</h3>
+<ul>
+  <li> Every member of entity set must participate in the relationship</li>
+  <li> Represented by<i><b> double line </b></i>from entity rectangle to relationship diamond</li>
+  <li>E.g., A <i><b>Class</b></i> entity cannot exist unless related to a <i><b>Faculty</b></i> 
+    member entity in this example, not necessarily at Juniata.</li>
+  <li>You can set this double line in Dia</li>
+  <li>In a relational model we will use the <i><b>references</b></i> clause.</li>
+</ul>
+<h3>Key constraint</h3>
+<ul>
+  <li><font face="Times New Roman">If every entity participates in <i>exactly</i> one relationship, both a 
+    total participation and a key constraint hold</font></li>
+  <li>E.g., if a class is taught by only one faculty member.</li>
+</ul>
+<h3> Partial participation</h3>
+<ul>
+  <li> Not every entity instance must participate</li>
+  <li> Represented by single line from entity rectangle to relationship diamond</li>
+  <li>E.g., A <i><b>Textbook</b></i> entity can exist without being related to 
+    a C<i><b>lass</b></i> or vice versa. </li>
+</ul>
+<p>&nbsp;</p>
+<a name="ExistWeak"></a> 
+
+<hr>
+<h2>Existence Dependency and Weak Entities<img src="./The Entity-Relationship Model_files/weakent.png" width="282" height="242" align="right"></h2>
+<p> <b>Existence dependency</b>: Entity Y is existence dependent on entity X is 
+  each instance of Y must have a corresponding instance of X</p>
+<p> In that case, Y must have total participation in its relationship with X</p>
+<p> If Y does not have its own candidate key, Y is called a <b>weak entity</b>, 
+  and X is <b>strong entity</b></p>
+<p> Weak entity may have a partial key, called a discriminator, that distinguishes 
+  instances of the weak entity that are related to the same strong entity</p>
+<p> Use double rectangle for weak entity, with double diamond for relationship 
+  connecting it to its associated strong entity</p>
+<p> Note: not all existence dependent entities are weak – the lack of a key is 
+  essential to definition</p>
+<p>&nbsp;</p>
+<p><a name="RelnTypeSchema"></a></p>
+<p>&nbsp;</p>
+<hr>
+<h2>Schema of a Relationship Type</h2>
+<p>Contains the following features:</p>
+<blockquote>
+  <p> <font face="Times New Roman"><i><b>Role names</b></i>, R<sub>i</sub>, and their corresponding entity sets. Roles 
+    must be single valued (the number of roles is called its <b>degree</b>)</font></p>
+  <p> <font face="Times New Roman"><i><b>Attribute names</b></i>, A<sub>j</sub>, and their corresponding domains. 
+    Attributes in the E-R model may be set or multi-valued.</font></p>
+  <p> <font face="Times New Roman"><i><b>Key</b></i>: Minimum set of roles and attributes that uniquely identify a 
+    relationship </font></p>
+  <p> <font face="Times New Roman"><i><b>Relationship</b></i>: &lt;e<sub>1</sub>, …e<sub>n</sub>; a<sub>1</sub>, …a<sub>k</sub>&gt;</font></p>
+  <ul>
+    <li><font face="Times New Roman">e<sub>i </sub>is an entity, a value from R<sub>i</sub>’s entity set</font></li>
+    <li><font face="Times New Roman">a<sub>j </sub>is a set of attribute values with elements from domain of A<sub>j</sub></font></li>
+  </ul>
+  <p>&nbsp; </p>
+</blockquote>
+<p><a name="ERDiagEx"></a></p>
+<hr>
+
+<h2>ER Diagram Example</h2>
+<p> <img src="./The Entity-Relationship Model_files/Figure3_12.jpg" width="800" height="1100"></p>
+<p></p>
+<font face="Times New Roman" size="6"></font><font face="Times New Roman"> 
+<p><img src="./The Entity-Relationship Model_files/UnivDBRelnDia.jpg" width="707" height="331"> </p>
+</font> 
+
+
+</body></html>

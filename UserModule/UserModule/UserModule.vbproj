@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EC509400-4A4D-40B6-A2E8-8118F66EC5FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ShopSoft.My.MyApplication</StartupObject>
+    <RootNamespace>ShopSoft</RootNamespace>
+    <AssemblyName>ShopSoft-Client Module</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\shong\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Shop Soft Client Module</ProductName>
+    <PublisherName>SAS Group</PublisherName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ShopSoft-Client Module.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ShopSoft-Client Module.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A3AC0783349199930B030BE7ABFA90AEBB6550D2</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>UserModule_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="crBill.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crBill.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmShopSelect.Designer.vb">
+      <DependentUpon>frmShopSelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmShopSelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewPass.Designer.vb">
+      <DependentUpon>frmNewPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCatBrowse.Designer.vb">
+      <DependentUpon>frmCatBrowse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCatBrowse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmForgotPass.Designer.vb">
+      <DependentUpon>frmForgotPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmForgotPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMyAccount.Designer.vb">
+      <DependentUpon>frmMyAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMyAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutUs.Designer.vb">
+      <DependentUpon>frmAboutUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotify.Designer.vb">
+      <DependentUpon>frmNotify.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotify.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubCat.Designer.vb">
+      <DependentUpon>frmSubCat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubCat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maps.Designer.vb">
+      <DependentUpon>Maps.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Maps.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSignUp.Designer.vb">
+      <DependentUpon>frmSignUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSignUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuy.Designer.vb">
+      <DependentUpon>frmBuy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCart.Designer.vb">
+      <DependentUpon>frmCart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmItems.Designer.vb">
+      <DependentUpon>frmItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductInfo.Designer.vb">
+      <DependentUpon>frmProductInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmItemsSearch.Designer.vb">
+      <DependentUpon>frmItemsSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmItemsSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReport.Designer.vb">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.vb">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mod_Data.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="crBill.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crBill.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShopSelect.resx">
+      <DependentUpon>frmShopSelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAboutUs.resx">
+      <DependentUpon>frmAboutUs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCatBrowse.resx">
+      <DependentUpon>frmCatBrowse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmForgotPass.resx">
+      <DependentUpon>frmForgotPass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMyAccount.resx">
+      <DependentUpon>frmMyAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewPass.resx">
+      <DependentUpon>frmNewPass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotify.resx">
+      <DependentUpon>frmNotify.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubCat.resx">
+      <DependentUpon>frmSubCat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Maps.resx">
+      <DependentUpon>Maps.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSignUp.resx">
+      <DependentUpon>frmSignUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuy.resx">
+      <DependentUpon>frmBuy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCart.resx">
+      <DependentUpon>frmCart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmItems.resx">
+      <DependentUpon>frmItems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmItemsSearch.resx">
+      <DependentUpon>frmItemsSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReport.resx">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductInfo.resx">
+      <DependentUpon>frmProductInfo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="CrystalReport1.mht" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="UserModule_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picbckgreen.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext780779551.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping_cart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picbckbluefaintanddark.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ErrorImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping cart logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xfree-shipping.png.pagespeed.ic.b9OZIB0h1S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
