@@ -10,6 +10,8 @@ Technologies used: VB.NET, Android SDK, MS Access, XML
 
 (Please see ShopSoft Client for the Source Code of the Android Module)
 
-Lead developers: Shounak Gujarathi, Saket Joshi
+Lead developers: Abhishek Mirge
+
+Web Modules: Shounak Gujarathi, Saket Joshi
 
 Resource management: Akshay Lahe
